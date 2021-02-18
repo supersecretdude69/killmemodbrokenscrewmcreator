@@ -1,0 +1,1134 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlockCauldronEmpty",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_cauldron_empty"
+    },
+    {
+      "name": "BlockMortarandpestle",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_mortarandpestle"
+    },
+    {
+      "name": "ItemLapizPowder",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_lapiz_powder"
+    },
+    {
+      "name": "MaltinAlchemy",
+      "type": "tab",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maltin_alchemy"
+    },
+    {
+      "name": "ItemCoalPowder",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_coal_powder"
+    },
+    {
+      "name": "MaltinAlchemyItemTab",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "maltin_alchemy_item_tab"
+    },
+    {
+      "name": "BlockDestiller",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_destiller"
+    },
+    {
+      "name": "ItemSalt",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_salt"
+    },
+    {
+      "name": "SiliconPowder",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silicon_powder"
+    },
+    {
+      "name": "ItemIronDust",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_iron_dust"
+    },
+    {
+      "name": "ItemGoldDust",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_gold_dust"
+    },
+    {
+      "name": "ItemSilverDust",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_silver_dust"
+    },
+    {
+      "name": "DryMushroomPowder",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dry_mushroom_powder"
+    },
+    {
+      "name": "PowderedSoupRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powdered_soup_recipe"
+    },
+    {
+      "name": "ItemCataline",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_cataline"
+    },
+    {
+      "name": "ItemColgas",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_colgas"
+    },
+    {
+      "name": "ItemConzazite",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_conzazite"
+    },
+    {
+      "name": "ItemDetontium",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_detontium"
+    },
+    {
+      "name": "ItemEnfax",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_enfax"
+    },
+    {
+      "name": "ItemFructium",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_fructium"
+    },
+    {
+      "name": "ItemInfax",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_infax"
+    },
+    {
+      "name": "ItemMovil",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_movil"
+    },
+    {
+      "name": "ItemOuvliq",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_ouvliq"
+    },
+    {
+      "name": "ItemRemotum",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_remotum"
+    },
+    {
+      "name": "ItemRozite",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_rozite"
+    },
+    {
+      "name": "ItemSilithium",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_silithium"
+    },
+    {
+      "name": "ItemTempest",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_tempest"
+    },
+    {
+      "name": "ItemVeoline",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_veoline"
+    },
+    {
+      "name": "ItemWarp",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_warp"
+    },
+    {
+      "name": "ItemWivex",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_wivex"
+    },
+    {
+      "name": "GuiCauldronCraft",
+      "type": "gui",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_cauldron_craft"
+    },
+    {
+      "name": "TakeItemFromCauldronTable",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "take_item_from_cauldron_table",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CatalineRecipe",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cataline_recipe",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftingCauldronBase",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crafting_cauldron_base",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClearSlotZero",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clear_slot_zero",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GuiMorterandpestleCraft",
+      "type": "gui",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_morterandpestle_craft"
+    },
+    {
+      "name": "MortarandPestleRecipeCore",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mortarand_pestle_recipe_core",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GuiExtractorCraft",
+      "type": "gui",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_extractor_craft"
+    },
+    {
+      "name": "DryerRecipeCore",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dryer_recipe_core",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TakeItemFromDryerTable",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "take_item_from_dryer_table",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ItemBenzole",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "item_benzole"
+    },
+    {
+      "name": "Benzole",
+      "type": "fuel",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "benzole"
+    },
+    {
+      "name": "BenzoleRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "benzole_recipe"
+    },
+    {
+      "name": "HumunculusEgg",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humunculus_egg"
+    },
+    {
+      "name": "HomunculusEggRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "homunculus_egg_recipe"
+    },
+    {
+      "name": "Homunculus",
+      "type": "mob",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "homunculus"
+    },
+    {
+      "name": "HumunculusEggRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humunculus_egg_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HomSpeakOne",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hom_speak_one",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HomSpeakTwo",
+      "type": "procedure",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hom_speak_two",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HomunculusOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "homunculus_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RecipeNoteOne",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_note_one"
+    },
+    {
+      "name": "ShowRecipeOne",
+      "type": "gui",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "show_recipe_one"
+    },
+    {
+      "name": "RecipeNoteTwo",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_note_two"
+    },
+    {
+      "name": "ShowRecipeTwo",
+      "type": "gui",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "show_recipe_two"
+    },
+    {
+      "name": "MovilRecipe",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ClickOnHumon",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "click_on_humon",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ConditionSNotitting",
+      "type": "procedure",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condition_s_notitting",
+      "metadata": {
+        "return_type": "LOGIC",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MorterAndPestleRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morter_and_pestle_recipe"
+    },
+    {
+      "name": "CauldronRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cauldron_recipe"
+    },
+    {
+      "name": "DesitllerRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "desitller_recipe"
+    },
+    {
+      "name": "ArtificialMeat",
+      "type": "food",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artificial_meat"
+    },
+    {
+      "name": "CauldronRecipeArtificialMeat",
+      "type": "procedure",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cauldron_recipe_artificial_meat",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ArtificialFruit",
+      "type": "food",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artificial_fruit"
+    },
+    {
+      "name": "CauldronRecipeArtificialFruit",
+      "type": "procedure",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cauldron_recipe_artificial_fruit",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ArtificialFruitMeat",
+      "type": "food",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "artificial_fruit_meat"
+    },
+    {
+      "name": "CauldronRecipeFruitMeat",
+      "type": "procedure",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cauldron_recipe_fruit_meat",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Meatdoll",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meatdoll"
+    },
+    {
+      "name": "MeatdollRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meatdoll_recipe"
+    },
+    {
+      "name": "Skin",
+      "type": "item",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skin"
+    },
+    {
+      "name": "SkinRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "skin_recipe"
+    },
+    {
+      "name": "MeatDollSkin",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_doll_skin"
+    },
+    {
+      "name": "RecipeSkinDoll",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_skin_doll"
+    },
+    {
+      "name": "HumonculusFire",
+      "type": "mob",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humonculus_fire"
+    },
+    {
+      "name": "GuiHumunculus",
+      "type": "gui",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_humunculus"
+    },
+    {
+      "name": "HumonculusFireOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humonculus_fire_on_entity_tick_update",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HumonculusSlime",
+      "type": "mob",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humonculus_slime"
+    },
+    {
+      "name": "HumonculusEnder",
+      "type": "mob",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humonculus_ender"
+    },
+    {
+      "name": "MeatDollSkinFire",
+      "type": "item",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_doll_skin_fire"
+    },
+    {
+      "name": "MeatDollSkinSlime",
+      "type": "item",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_doll_skin_slime"
+    },
+    {
+      "name": "MeatDollSkinEnd",
+      "type": "item",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_doll_skin_end"
+    },
+    {
+      "name": "MeatDollSkinFireRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_doll_skin_fire_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MeatDollSkinSkeleton",
+      "type": "item",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_doll_skin_skeleton"
+    },
+    {
+      "name": "HumonculusSkele",
+      "type": "mob",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humonculus_skele"
+    },
+    {
+      "name": "MeatDollSkinMushroom",
+      "type": "item",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_doll_skin_mushroom"
+    },
+    {
+      "name": "HumonculusMushroom",
+      "type": "mob",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "humonculus_mushroom"
+    },
+    {
+      "name": "EssenceExtractor",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "essence_extractor"
+    },
+    {
+      "name": "GuiEssenceExtractorCraft",
+      "type": "gui",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_essence_extractor_craft"
+    },
+    {
+      "name": "UseExtractor",
+      "type": "procedure",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "use_extractor",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "entity.maltinmysticism.humonculus_ender": "Ender Homunculus",
+      "item.maltinmysticism.item_infax": "Infax",
+      "entity.maltinmysticism.humonculus_fire": "Blaze Homunculus",
+      "item.maltinmysticism.maltin_alchemy_item_tab": "Maltin Alchemy Item Tab",
+      "item.maltinmysticism.item_remotum": "Remotum",
+      "item.maltinmysticism.item_fructium": "Fructium",
+      "item.maltinmysticism.humonculus_fire_spawn_egg": "Blaze Homunculus Spawn Egg",
+      "block.maltinmysticism.essence_extractor": "Essense Extractor",
+      "item.maltinmysticism.item_tempest": "Tempest",
+      "block.maltinmysticism.block_mortarandpestle": "Mortar and Pestle",
+      "item.maltinmysticism.meat_doll_skin_mushroom": "Mushroom Homunculus",
+      "item.maltinmysticism.item_lapiz_powder": "Lapiz Powder",
+      "block.maltinmysticism.block_cauldron_empty": "Empty Cauldron",
+      "entity.maltinmysticism.homunculus": "Homunculus",
+      "item.maltinmysticism.humonculus_ender_spawn_egg": "Ender Homunculus Spawn Egg",
+      "item.maltinmysticism.item_ouvliq": "Ouvliq",
+      "item.maltinmysticism.item_veoline": "Veoline",
+      "item.maltinmysticism.item_iron_dust": "Iron Powder",
+      "item.maltinmysticism.dry_mushroom_powder": "Dry Mushroom Powder",
+      "item.maltinmysticism.humonculus_skele_spawn_egg": "Skeleton Homunculus Spawn Egg",
+      "block.maltinmysticism.block_destiller": "Destiller",
+      "item.maltinmysticism.item_warp": "Warp",
+      "item.maltinmysticism.item_movil": "Movil",
+      "item.maltinmysticism.item_detontium": "Detontium",
+      "item.maltinmysticism.silicon_powder": "Silicon Powder",
+      "item.maltinmysticism.item_rozite": "Rozite",
+      "item.maltinmysticism.meat_doll_skin": "Meat Doll With Skin",
+      "item.maltinmysticism.artificial_fruit_meat": "Artificial Meat-Fruit",
+      "item.maltinmysticism.item_wivex": "Wivex",
+      "entity.maltinmysticism.humonculus_skele": "Skeleton Homunculus",
+      "item.maltinmysticism.humunculus_egg": "Homunculus Egg",
+      "item.maltinmysticism.humonculus_slime_spawn_egg": "Slime Homunculus Spawn Egg",
+      "item.maltinmysticism.item_silithium": "Silithium",
+      "entity.maltinmysticism.humonculus_slime": "Slime Homunculus",
+      "item.maltinmysticism.item_gold_dust": "Gold Powder",
+      "item.maltinmysticism.humonculus_mushroom_spawn_egg": "Mushroom Homunculus Spawn Egg",
+      "item.maltinmysticism.recipe_note_two": "Movil Recipe",
+      "item.maltinmysticism.meat_doll_skin_fire": "Fire Homunculus",
+      "item.maltinmysticism.recipe_note_one": "Cataline Recipe",
+      "item.maltinmysticism.item_cataline": "Cataline",
+      "item.maltinmysticism.homunculus_spawn_egg": "Homunculus Spawn Egg",
+      "entity.maltinmysticism.humonculus_mushroom": "Mushroom Homunculus",
+      "item.maltinmysticism.artificial_fruit": "Artificial Fruit",
+      "item.maltinmysticism.item_colgas": "Colgas",
+      "item.maltinmysticism.meat_doll_skin_end": "End Homunculus",
+      "itemGroup.tabmaltin_alchemy": "Maltin Alchemy",
+      "item.maltinmysticism.item_silver_dust": "Silver Powder",
+      "item.maltinmysticism.skin": "Skin",
+      "item.maltinmysticism.artificial_meat": "Artificial Meat",
+      "item.maltinmysticism.meatdoll": "Meat doll",
+      "item.maltinmysticism.meat_doll_skin_skeleton": "Skeleton Homunculus",
+      "item.maltinmysticism.item_coal_powder": "Coal Powder",
+      "item.maltinmysticism.item_conzazite": "Conzazite",
+      "item.maltinmysticism.item_enfax": "Enfax",
+      "item.maltinmysticism.meat_doll_skin_slime": "Slime Homunculus",
+      "item.maltinmysticism.item_salt": "Salt Powder",
+      "item.maltinmysticism.item_benzole": "Benzole"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "maltinmysticism",
+    "modName": "MaltinMysticism",
+    "version": "1.0.0",
+    "author": "JohnWillStab, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.maltinmysticism",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

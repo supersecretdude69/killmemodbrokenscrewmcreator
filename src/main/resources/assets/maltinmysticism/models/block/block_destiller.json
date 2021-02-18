@@ -1,0 +1,8 @@
+{
+  "parent": "maltinmysticism:custom/destillermodel",
+  "textures": {
+    "all": "maltinmysticism:blocks/destillertexture",
+    "particle": "maltinmysticism:blocks/destillertexture",
+    "1": "maltinmysticism:blocks/destillertexture"
+  }
+}
