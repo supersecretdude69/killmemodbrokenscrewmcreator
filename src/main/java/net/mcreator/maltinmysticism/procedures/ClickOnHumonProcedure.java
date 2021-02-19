@@ -20,7 +20,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class ClickOnHumonProcedure extends MaltinmysticismModElements.ModElement {
 	public ClickOnHumonProcedure(MaltinmysticismModElements instance) {
-		super(instance, 80);
+		super(instance, 85);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

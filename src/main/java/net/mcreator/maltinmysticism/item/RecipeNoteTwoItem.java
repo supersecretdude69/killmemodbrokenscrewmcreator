@@ -49,7 +49,7 @@ public class RecipeNoteTwoItem extends MaltinmysticismModElements.ModElement {
 	@ObjectHolder("maltinmysticism:recipe_note_two")
 	public static final Item block = null;
 	public RecipeNoteTwoItem(MaltinmysticismModElements instance) {
-		super(instance, 77);
+		super(instance, 31);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

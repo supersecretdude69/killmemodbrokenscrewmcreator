@@ -26,7 +26,7 @@ public class MeatDollSkinSlimeItem extends MaltinmysticismModElements.ModElement
 	@ObjectHolder("maltinmysticism:meat_doll_skin_slime")
 	public static final Item block = null;
 	public MeatDollSkinSlimeItem(MaltinmysticismModElements instance) {
-		super(instance, 104);
+		super(instance, 39);
 	}
 
 	@Override

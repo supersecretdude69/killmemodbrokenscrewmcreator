@@ -11,7 +11,7 @@ import java.util.HashMap;
 @MaltinmysticismModElements.ModElement.Tag
 public class HomunculusOnEntityTickUpdateProcedure extends MaltinmysticismModElements.ModElement {
 	public HomunculusOnEntityTickUpdateProcedure(MaltinmysticismModElements instance) {
-		super(instance, 73);
+		super(instance, 81);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

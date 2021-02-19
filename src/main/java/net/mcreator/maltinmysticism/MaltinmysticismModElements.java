@@ -47,6 +47,12 @@ public class MaltinmysticismModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public MaltinmysticismModElements() {
+		sounds.put(new ResourceLocation("maltinmysticism", "watersplash"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("maltinmysticism", "watersplash")));
+		sounds.put(new ResourceLocation("maltinmysticism", "watersplash3"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("maltinmysticism", "watersplash3")));
+		sounds.put(new ResourceLocation("maltinmysticism", "watersplash2"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("maltinmysticism", "watersplash2")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("maltinmysticism").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

@@ -81,7 +81,7 @@ public class EssenceExtractorBlock extends MaltinmysticismModElements.ModElement
 	@ObjectHolder("maltinmysticism:essence_extractor")
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 	public EssenceExtractorBlock(MaltinmysticismModElements instance) {
-		super(instance, 110);
+		super(instance, 43);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

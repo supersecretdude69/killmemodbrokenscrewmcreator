@@ -29,7 +29,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class MeatDollSkinFireRightClickedOnBlockProcedure extends MaltinmysticismModElements.ModElement {
 	public MeatDollSkinFireRightClickedOnBlockProcedure(MaltinmysticismModElements instance) {
-		super(instance, 104);
+		super(instance, 98);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

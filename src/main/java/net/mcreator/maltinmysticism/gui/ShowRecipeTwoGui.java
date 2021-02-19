@@ -39,7 +39,7 @@ public class ShowRecipeTwoGui extends MaltinmysticismModElements.ModElement {
 	public static HashMap guistate = new HashMap();
 	private static ContainerType<GuiContainerMod> containerType = null;
 	public ShowRecipeTwoGui(MaltinmysticismModElements instance) {
-		super(instance, 78);
+		super(instance, 83);
 		elements.addNetworkMessage(ButtonPressedMessage.class, ButtonPressedMessage::buffer, ButtonPressedMessage::new,
 				ButtonPressedMessage::handler);
 		elements.addNetworkMessage(GUISlotChangedMessage.class, GUISlotChangedMessage::buffer, GUISlotChangedMessage::new,

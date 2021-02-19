@@ -17,7 +17,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class MovilRecipeProcedure extends MaltinmysticismModElements.ModElement {
 	public MovilRecipeProcedure(MaltinmysticismModElements instance) {
-		super(instance, 79);
+		super(instance, 84);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -14,7 +14,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class TakeItemFromCauldronTableProcedure extends MaltinmysticismModElements.ModElement {
 	public TakeItemFromCauldronTableProcedure(MaltinmysticismModElements instance) {
-		super(instance, 57);
+		super(instance, 66);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

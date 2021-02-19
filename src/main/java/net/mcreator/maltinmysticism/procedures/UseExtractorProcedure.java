@@ -26,7 +26,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class UseExtractorProcedure extends MaltinmysticismModElements.ModElement {
 	public UseExtractorProcedure(MaltinmysticismModElements instance) {
-		super(instance, 112);
+		super(instance, 100);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {
