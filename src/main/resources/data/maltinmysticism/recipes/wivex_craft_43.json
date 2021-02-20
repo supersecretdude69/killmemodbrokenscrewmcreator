@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "maltinmysticism:item_wivex"
+    },
+    {
+      "item": "minecraft:sunflower"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sunflower",
+    "count": 3
+  }
+}

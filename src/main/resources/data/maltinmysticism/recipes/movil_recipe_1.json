@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "maltinmysticism:item_movil"
+    }
+  ],
+  "result": {
+    "item": "minecraft:chicken",
+    "count": 3
+  }
+}

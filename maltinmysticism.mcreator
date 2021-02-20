@@ -1396,13 +1396,13 @@
       "registry_name": "upgrade_gold"
     },
     {
-      "name": "InsFireTablet1",
+      "name": "InsFireTablet2",
       "type": "gun",
-      "sortid": 118,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ins_fire_tablet_1"
+      "registry_name": "ins_fire_tablet_2"
     },
     {
       "name": "InsFireTablet1Effect",
@@ -1447,13 +1447,751 @@
       "registry_name": "fire_bolt"
     },
     {
-      "name": "InsFireTablet2",
+      "name": "InsFireTablet1",
       "type": "gun",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ins_fire_tablet_1"
+    },
+    {
+      "name": "WivexCraft7",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_7"
+    },
+    {
+      "name": "WivexCraft61",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_61"
+    },
+    {
+      "name": "WivexCraft8",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_8"
+    },
+    {
+      "name": "WivexCraft62",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_62"
+    },
+    {
+      "name": "WivexCraft5",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_5"
+    },
+    {
+      "name": "WivexCraft63",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_63"
+    },
+    {
+      "name": "WivexCraft6",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_6"
+    },
+    {
+      "name": "WivexCraft20",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_20"
+    },
+    {
+      "name": "WivexCraft64",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_64"
+    },
+    {
+      "name": "WivexCraft60",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_60"
+    },
+    {
+      "name": "WivexCraft25",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_25"
+    },
+    {
+      "name": "WivexCraft69",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_69"
+    },
+    {
+      "name": "WivexCraftTwo",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_two"
+    },
+    {
+      "name": "WivexCraft26",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_26"
+    },
+    {
+      "name": "WivexCraft27",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_27"
+    },
+    {
+      "name": "WivexCraftFour",
+      "type": "recipe",
       "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ins_fire_tablet_2"
+      "registry_name": "wivex_craft_four"
+    },
+    {
+      "name": "WivexCraft28",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_28"
+    },
+    {
+      "name": "WivexCraft21",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_21"
+    },
+    {
+      "name": "WivexCraft65",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_65"
+    },
+    {
+      "name": "WivexCraft22",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_22"
+    },
+    {
+      "name": "WivexCraft66",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_66"
+    },
+    {
+      "name": "WivexCraft23",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_23"
+    },
+    {
+      "name": "WivexCraft67",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_67"
+    },
+    {
+      "name": "WivexCraftThree",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_three"
+    },
+    {
+      "name": "WivexCraft24",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_24"
+    },
+    {
+      "name": "WivexCraft68",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_68"
+    },
+    {
+      "name": "WivexCraft29",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_29"
+    },
+    {
+      "name": "WivexCraftOne",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_one"
+    },
+    {
+      "name": "WivexCraft9",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_9"
+    },
+    {
+      "name": "WivexCraft50",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_50"
+    },
+    {
+      "name": "WivexCraft51",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_51"
+    },
+    {
+      "name": "WivexCraft52",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_52"
+    },
+    {
+      "name": "WivexCraft53",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_53"
+    },
+    {
+      "name": "WivexCraft14",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_14"
+    },
+    {
+      "name": "WivexCraft58",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_58"
+    },
+    {
+      "name": "WivexCraft15",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_15"
+    },
+    {
+      "name": "WivexCraft59",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_59"
+    },
+    {
+      "name": "WivexCraft16",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_16"
+    },
+    {
+      "name": "WivexCraft17",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_17"
+    },
+    {
+      "name": "WivexCraft10",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_10"
+    },
+    {
+      "name": "WivexCraft54",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_54"
+    },
+    {
+      "name": "WivexCraft11",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_11"
+    },
+    {
+      "name": "WivexCraft55",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_55"
+    },
+    {
+      "name": "WivexCraft12",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_12"
+    },
+    {
+      "name": "WivexCraft56",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_56"
+    },
+    {
+      "name": "WivexCraft13",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_13"
+    },
+    {
+      "name": "WivexCraft57",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_57"
+    },
+    {
+      "name": "WivexCraft18",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_18"
+    },
+    {
+      "name": "WivexCraft19",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_19"
+    },
+    {
+      "name": "WivexCraft40",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_40"
+    },
+    {
+      "name": "WivexCraft41",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_41"
+    },
+    {
+      "name": "WivexCraft42",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_42"
+    },
+    {
+      "name": "WivexCraft47",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_47"
+    },
+    {
+      "name": "WivexCraft48",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_48"
+    },
+    {
+      "name": "WivexCraft49",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_49"
+    },
+    {
+      "name": "WivexCraft43",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_43"
+    },
+    {
+      "name": "WivexCraft44",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_44"
+    },
+    {
+      "name": "WivexCraft45",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_45"
+    },
+    {
+      "name": "WivexCraft46",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_46"
+    },
+    {
+      "name": "WivexCraft72",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_72"
+    },
+    {
+      "name": "WivexCraft73",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_73"
+    },
+    {
+      "name": "WivexCraft30",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_30"
+    },
+    {
+      "name": "WivexCraft74",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_74"
+    },
+    {
+      "name": "WivexCraft31",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_31"
+    },
+    {
+      "name": "WivexCraft70",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_70"
+    },
+    {
+      "name": "WivexCraft71",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_71"
+    },
+    {
+      "name": "WivexCraft36",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_36"
+    },
+    {
+      "name": "WivexCraft37",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_37"
+    },
+    {
+      "name": "WivexCraft38",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_38"
+    },
+    {
+      "name": "WivexCraft39",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_39"
+    },
+    {
+      "name": "MovilRecipe8",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_8"
+    },
+    {
+      "name": "WivexCraft32",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_32"
+    },
+    {
+      "name": "MovilRecipe7",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_7"
+    },
+    {
+      "name": "WivexCraft33",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_33"
+    },
+    {
+      "name": "MovilRecipe6",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_6"
+    },
+    {
+      "name": "WivexCraft34",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_34"
+    },
+    {
+      "name": "MovilRecipe5",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_5"
+    },
+    {
+      "name": "WivexCraft35",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_35"
+    },
+    {
+      "name": "MovilRecipe4",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_4"
+    },
+    {
+      "name": "MovilRecipe3",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_3"
+    },
+    {
+      "name": "MovilRecipe2",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_2"
+    },
+    {
+      "name": "MovilRecipe1",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "movil_recipe_1"
     }
   ],
   "variable_elements": [],
@@ -1533,14 +2271,12 @@
       "item.maltinmysticism.humonculus_mushroom_spawn_egg": "Mushroom Homunculus Spawn Egg",
       "subtitles.watersplash2": "",
       "item.maltinmysticism.ins_fire_tablet_2": "Intermediate Flame Tablet",
-      "item.maltinmysticism.ins_fire_tablet_1": "Basic Flame Tablet",
       "item.maltinmysticism.meat_doll_skin_fire": "Fire Homunculus",
       "item.maltinmysticism.item_cataline": "Cataline",
       "item.maltinmysticism.homunculus_spawn_egg": "Homunculus Spawn Egg",
       "entity.maltinmysticism.humonculus_mushroom": "Mushroom Homunculus",
       "item.maltinmysticism.artificial_fruit": "Artificial Fruit",
       "item.maltinmysticism.item_colgas": "Colgas",
-      "item.maltinmysticism.fire_bolt": "Fire Bolt",
       "item.maltinmysticism.meat_doll_skin_end": "End Homunculus",
       "item.maltinmysticism.blue_chalk": "Blue Chalk",
       "itemGroup.tabmaltin_alchemy": "Maltin Alchemy",

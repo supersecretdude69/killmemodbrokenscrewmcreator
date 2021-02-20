@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "maltinmysticism:item_movil"
+    }
+  ],
+  "result": {
+    "item": "minecraft:beef",
+    "count": 3
+  }
+}

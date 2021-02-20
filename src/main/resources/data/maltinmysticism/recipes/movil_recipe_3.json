@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "item": "maltinmysticism:item_movil"
+    }
+  ],
+  "result": {
+    "item": "minecraft:porkchop",
+    "count": 3
+  }
+}
