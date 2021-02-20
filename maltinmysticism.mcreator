@@ -445,15 +445,6 @@
       "registry_name": "benzole_recipe"
     },
     {
-      "name": "HumunculusEgg",
-      "type": "item",
-      "sortid": 29,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "humunculus_egg"
-    },
-    {
       "name": "HomunculusEggRecipe",
       "type": "recipe",
       "sortid": 77,
@@ -600,15 +591,6 @@
       }
     },
     {
-      "name": "RecipeNoteOne",
-      "type": "item",
-      "sortid": 30,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "recipe_note_one"
-    },
-    {
       "name": "ShowRecipeOne",
       "type": "gui",
       "sortid": 82,
@@ -616,15 +598,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "show_recipe_one"
-    },
-    {
-      "name": "RecipeNoteTwo",
-      "type": "item",
-      "sortid": 31,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "recipe_note_two"
     },
     {
       "name": "ShowRecipeTwo",
@@ -1320,6 +1293,42 @@
           }
         ]
       }
+    },
+    {
+      "name": "UpgradeCoal",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "upgrade_coal"
+    },
+    {
+      "name": "UpgradeIron",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "upgrade_iron"
+    },
+    {
+      "name": "UpgradeGold",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "upgrade_gold"
+    },
+    {
+      "name": "UpgradeDiamond",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "upgrade_diamond"
     }
   ],
   "variable_elements": [],
@@ -1388,7 +1397,6 @@
       "item.maltinmysticism.artificial_fruit_meat": "Artificial Meat-Fruit",
       "item.maltinmysticism.item_wivex": "Wivex",
       "entity.maltinmysticism.humonculus_skele": "Skeleton Homunculus",
-      "item.maltinmysticism.humunculus_egg": "Homunculus Egg",
       "item.maltinmysticism.humonculus_slime_spawn_egg": "Slime Homunculus Spawn Egg",
       "item.maltinmysticism.ins_water_tablet_1": "Basic Water Tablet",
       "item.maltinmysticism.water_bolt": "Water Bolt",
@@ -1399,9 +1407,7 @@
       "item.maltinmysticism.item_gold_dust": "Gold Powder",
       "item.maltinmysticism.humonculus_mushroom_spawn_egg": "Mushroom Homunculus Spawn Egg",
       "subtitles.watersplash2": "",
-      "item.maltinmysticism.recipe_note_two": "Movil Recipe",
       "item.maltinmysticism.meat_doll_skin_fire": "Fire Homunculus",
-      "item.maltinmysticism.recipe_note_one": "Cataline Recipe",
       "item.maltinmysticism.item_cataline": "Cataline",
       "item.maltinmysticism.homunculus_spawn_egg": "Homunculus Spawn Egg",
       "entity.maltinmysticism.humonculus_mushroom": "Mushroom Homunculus",
