@@ -39,7 +39,7 @@
       "name": "InsWaterTablet3Explosion"
     },
     "onBulletHitsEntity": {
-      "name": "InscriptionTabletEffects"
+      "name": "InsWaterTablet3Beam"
     },
     "onBulletFlyingTick": {
       "name": "InscriptionTabletEffects"
