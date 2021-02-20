@@ -43,6 +43,7 @@ import net.minecraft.client.renderer.IRenderTypeBuffer;
 
 import net.mcreator.maltinmysticism.procedures.InscriptionTabletEffectsProcedure;
 import net.mcreator.maltinmysticism.procedures.InsWaterTablet3ExplosionProcedure;
+import net.mcreator.maltinmysticism.procedures.InsWaterTablet3BeamProcedure;
 import net.mcreator.maltinmysticism.itemgroup.MaltinInscriptionItemGroup;
 import net.mcreator.maltinmysticism.MaltinmysticismModElements;
 
@@ -170,7 +171,7 @@ public class InsWaterTablet3Item extends MaltinmysticismModElements.ModElement {
 				$_dependencies.put("y", y);
 				$_dependencies.put("z", z);
 				$_dependencies.put("world", world);
-				InscriptionTabletEffectsProcedure.executeProcedure($_dependencies);
+				InsWaterTablet3BeamProcedure.executeProcedure($_dependencies);
 			}
 		}
 

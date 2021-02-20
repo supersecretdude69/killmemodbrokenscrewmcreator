@@ -1367,40 +1367,22 @@
       "registry_name": "downgrade_iron"
     },
     {
-      "name": "WivexCraftOne",
+      "name": "WivexCraft7",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_one"
+      "registry_name": "wivex_craft_7"
     },
     {
-      "name": "WivexCraftTwo",
+      "name": "WivexCraft8",
       "type": "recipe",
-      "sortid": 119,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_two"
-    },
-    {
-      "name": "WivexCraftThree",
-      "type": "recipe",
-      "sortid": 120,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "wivex_craft_three"
-    },
-    {
-      "name": "WivexCraftFour",
-      "type": "recipe",
-      "sortid": 121,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "wivex_craft_four"
+      "registry_name": "wivex_craft_8"
     },
     {
       "name": "WivexCraft5",
@@ -1421,31 +1403,49 @@
       "registry_name": "wivex_craft_6"
     },
     {
-      "name": "WivexCraft7",
+      "name": "WivexCraft14",
       "type": "recipe",
-      "sortid": 124,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_7"
+      "registry_name": "wivex_craft_14"
     },
     {
-      "name": "WivexCraft8",
+      "name": "WivexCraftTwo",
       "type": "recipe",
-      "sortid": 125,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_8"
+      "registry_name": "wivex_craft_two"
     },
     {
-      "name": "WivexCraft9",
+      "name": "WivexCraft15",
       "type": "recipe",
-      "sortid": 126,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_9"
+      "registry_name": "wivex_craft_15"
+    },
+    {
+      "name": "WivexCraft16",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_16"
+    },
+    {
+      "name": "WivexCraftFour",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_four"
     },
     {
       "name": "WivexCraft10",
@@ -1475,6 +1475,15 @@
       "registry_name": "wivex_craft_12"
     },
     {
+      "name": "WivexCraftThree",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_three"
+    },
+    {
       "name": "WivexCraft13",
       "type": "recipe",
       "sortid": 130,
@@ -1484,31 +1493,51 @@
       "registry_name": "wivex_craft_13"
     },
     {
-      "name": "WivexCraft14",
+      "name": "WivexCraftOne",
       "type": "recipe",
-      "sortid": 131,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_14"
+      "registry_name": "wivex_craft_one"
     },
     {
-      "name": "WivexCraft15",
+      "name": "WivexCraft9",
       "type": "recipe",
-      "sortid": 132,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_15"
+      "registry_name": "wivex_craft_9"
     },
     {
-      "name": "WivexCraft16",
-      "type": "recipe",
-      "sortid": 133,
+      "name": "InsWaterTablet3Beam",
+      "type": "procedure",
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wivex_craft_16"
+      "registry_name": "ins_water_tablet_3_beam",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
