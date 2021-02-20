@@ -1365,6 +1365,150 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "downgrade_iron"
+    },
+    {
+      "name": "WivexCraftOne",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_one"
+    },
+    {
+      "name": "WivexCraftTwo",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_two"
+    },
+    {
+      "name": "WivexCraftThree",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_three"
+    },
+    {
+      "name": "WivexCraftFour",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_four"
+    },
+    {
+      "name": "WivexCraft5",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_5"
+    },
+    {
+      "name": "WivexCraft6",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_6"
+    },
+    {
+      "name": "WivexCraft7",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_7"
+    },
+    {
+      "name": "WivexCraft8",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_8"
+    },
+    {
+      "name": "WivexCraft9",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_9"
+    },
+    {
+      "name": "WivexCraft10",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_10"
+    },
+    {
+      "name": "WivexCraft11",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_11"
+    },
+    {
+      "name": "WivexCraft12",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_12"
+    },
+    {
+      "name": "WivexCraft13",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_13"
+    },
+    {
+      "name": "WivexCraft14",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_14"
+    },
+    {
+      "name": "WivexCraft15",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_15"
+    },
+    {
+      "name": "WivexCraft16",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_16"
     }
   ],
   "variable_elements": [],

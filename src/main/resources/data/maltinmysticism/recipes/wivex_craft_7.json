@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "maltinmysticism:item_wivex"
+    },
+    {
+      "item": "minecraft:sweet_berry_bush"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sweet_berry_bush",
+    "count": 3
+  }
+}
