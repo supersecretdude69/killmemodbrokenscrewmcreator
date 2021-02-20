@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "maltinmysticism:item_infax"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 3
+  }
+}

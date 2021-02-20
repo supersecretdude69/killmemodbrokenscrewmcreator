@@ -1329,6 +1329,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "upgrade_diamond"
+    },
+    {
+      "name": "DowngradeEmeral",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "downgrade_emeral"
+    },
+    {
+      "name": "DowngradeDiamond",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "downgrade_diamond"
+    },
+    {
+      "name": "DowngradeGold",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "downgrade_gold"
+    },
+    {
+      "name": "DowngradeIron",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "downgrade_iron"
     }
   ],
   "variable_elements": [],
