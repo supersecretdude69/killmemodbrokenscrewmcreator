@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "maltinmysticism:item_wivex"
+    },
+    {
+      "item": "minecraft:jungle_sapling"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jungle_sapling",
+    "count": 3
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "maltinmysticism:item_movil"
+    }
+  ],
+  "result": {
+    "item": "minecraft:spider_eye",
+    "count": 3
+  }
+}

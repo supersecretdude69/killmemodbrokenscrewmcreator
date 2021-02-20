@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "maltinmysticism:item_wivex"
+    },
+    {
+      "item": "minecraft:fire_coral_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:fire_coral_block",
+    "count": 3
+  }
+}

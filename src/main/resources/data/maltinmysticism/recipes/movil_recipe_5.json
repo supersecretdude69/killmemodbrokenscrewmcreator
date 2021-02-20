@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:mutton"
+    },
+    {
+      "item": "maltinmysticism:item_movil"
+    }
+  ],
+  "result": {
+    "item": "minecraft:mutton",
+    "count": 3
+  }
+}

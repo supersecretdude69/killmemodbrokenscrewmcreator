@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "maltinmysticism:item_wivex"
+    },
+    {
+      "item": "minecraft:azure_bluet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:azure_bluet",
+    "count": 3
+  }
+}

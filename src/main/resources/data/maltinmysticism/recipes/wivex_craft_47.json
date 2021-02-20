@@ -1,0 +1,16 @@
+{
+  "group": "maltinmysticism",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "maltinmysticism:item_wivex"
+    },
+    {
+      "item": "minecraft:tall_grass"
+    }
+  ],
+  "result": {
+    "item": "minecraft:tall_grass",
+    "count": 3
+  }
+}
