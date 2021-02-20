@@ -96,7 +96,7 @@
       }
     ],
     "onTick": {
-      "name": "CraftingCauldronBase"
+      "name": "UseExtractor"
     }
   }
 }

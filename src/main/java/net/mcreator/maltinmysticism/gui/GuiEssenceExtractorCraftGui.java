@@ -37,7 +37,6 @@ import net.minecraft.client.gui.ScreenManager;
 import net.minecraft.client.Minecraft;
 
 import net.mcreator.maltinmysticism.procedures.UseExtractorProcedure;
-import net.mcreator.maltinmysticism.procedures.CraftingCauldronBaseProcedure;
 import net.mcreator.maltinmysticism.MaltinmysticismModElements;
 import net.mcreator.maltinmysticism.MaltinmysticismMod;
 
@@ -76,7 +75,7 @@ public class GuiEssenceExtractorCraftGui extends MaltinmysticismModElements.ModE
 			{
 				Map<String, Object> $_dependencies = new HashMap<>();
 				$_dependencies.put("entity", entity);
-				CraftingCauldronBaseProcedure.executeProcedure($_dependencies);
+				UseExtractorProcedure.executeProcedure($_dependencies);
 			}
 		}
 	}
