@@ -6,11 +6,11 @@
       "item": "maltinmysticism:item_wivex"
     },
     {
-      "item": "minecraft:sweet_berries"
+      "item": "minecraft:cocoa_beans"
     }
   ],
   "result": {
-    "item": "minecraft:sweet_berries",
+    "item": "minecraft:cocoa_beans",
     "count": 3
   }
 }

@@ -2123,6 +2123,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "wivex_craft_73"
+    },
+    {
+      "name": "WivexCraft74",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wivex_craft_74"
     }
   ],
   "variable_elements": [],

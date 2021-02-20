@@ -13,7 +13,7 @@
         "value": "CUSTOM:ItemWivex"
       },
       {
-        "value": "Items.SWEET_BERRIES"
+        "value": "Items.DYE#3"
       },
       {
         "value": ""
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SWEET_BERRIES"
+      "value": "Items.DYE#3"
     },
-    "name": "wivex_craft_7",
+    "name": "wivex_craft_74",
     "namespace": "mod"
   }
 }
