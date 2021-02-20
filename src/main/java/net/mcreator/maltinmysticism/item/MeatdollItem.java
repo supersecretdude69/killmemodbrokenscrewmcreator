@@ -22,7 +22,7 @@ public class MeatdollItem extends MaltinmysticismModElements.ModElement {
 	@ObjectHolder("maltinmysticism:meatdoll")
 	public static final Item block = null;
 	public MeatdollItem(MaltinmysticismModElements instance) {
-		super(instance, 91);
+		super(instance, 35);
 	}
 
 	@Override

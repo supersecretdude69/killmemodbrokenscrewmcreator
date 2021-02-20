@@ -20,7 +20,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class HumonculusFireOnEntityTickUpdateProcedure extends MaltinmysticismModElements.ModElement {
 	public HumonculusFireOnEntityTickUpdateProcedure(MaltinmysticismModElements instance) {
-		super(instance, 100);
+		super(instance, 97);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

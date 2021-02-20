@@ -23,7 +23,7 @@ public class ArtificialFruitMeatItem extends MaltinmysticismModElements.ModEleme
 	@ObjectHolder("maltinmysticism:artificial_fruit_meat")
 	public static final Item block = null;
 	public ArtificialFruitMeatItem(MaltinmysticismModElements instance) {
-		super(instance, 89);
+		super(instance, 34);
 	}
 
 	@Override

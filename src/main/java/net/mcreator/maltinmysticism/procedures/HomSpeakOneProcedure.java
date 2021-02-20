@@ -15,7 +15,7 @@ import java.util.Comparator;
 @MaltinmysticismModElements.ModElement.Tag
 public class HomSpeakOneProcedure extends MaltinmysticismModElements.ModElement {
 	public HomSpeakOneProcedure(MaltinmysticismModElements instance) {
-		super(instance, 73);
+		super(instance, 79);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -16,7 +16,7 @@ public class SkinItem extends MaltinmysticismModElements.ModElement {
 	@ObjectHolder("maltinmysticism:skin")
 	public static final Item block = null;
 	public SkinItem(MaltinmysticismModElements instance) {
-		super(instance, 93);
+		super(instance, 36);
 	}
 
 	@Override

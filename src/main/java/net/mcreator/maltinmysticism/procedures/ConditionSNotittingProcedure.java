@@ -9,7 +9,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class ConditionSNotittingProcedure extends MaltinmysticismModElements.ModElement {
 	public ConditionSNotittingProcedure(MaltinmysticismModElements instance) {
-		super(instance, 81);
+		super(instance, 86);
 	}
 
 	public static boolean executeProcedure(Map<String, Object> dependencies) {

@@ -1,1 +1,29 @@
-{}
+{
+  "watersplash": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "maltinmysticism:swim2",
+        "stream": false
+      }
+    ]
+  },
+  "watersplash3": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "maltinmysticism:swim12",
+        "stream": false
+      }
+    ]
+  },
+  "watersplash2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "maltinmysticism:swim8",
+        "stream": false
+      }
+    ]
+  }
+}

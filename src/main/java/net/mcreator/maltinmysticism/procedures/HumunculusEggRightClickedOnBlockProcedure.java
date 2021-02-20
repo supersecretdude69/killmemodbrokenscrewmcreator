@@ -17,7 +17,7 @@ import java.util.Map;
 @MaltinmysticismModElements.ModElement.Tag
 public class HumunculusEggRightClickedOnBlockProcedure extends MaltinmysticismModElements.ModElement {
 	public HumunculusEggRightClickedOnBlockProcedure(MaltinmysticismModElements instance) {
-		super(instance, 69);
+		super(instance, 78);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

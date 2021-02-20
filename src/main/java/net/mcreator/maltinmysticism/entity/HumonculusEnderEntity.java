@@ -84,7 +84,7 @@ import com.google.common.collect.ImmutableMap;
 public class HumonculusEnderEntity extends MaltinmysticismModElements.ModElement {
 	public static EntityType entity = null;
 	public HumonculusEnderEntity(MaltinmysticismModElements instance) {
-		super(instance, 102);
+		super(instance, 47);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 
