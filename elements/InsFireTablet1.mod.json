@@ -1,0 +1,45 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "tf0",
+    "customModelName": "Normal",
+    "name": "Basic Flame Tablet",
+    "specialInfo": [
+      "Blaze Sparks"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:MaltinInscription"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 1,
+    "actionSound": {
+      "value": "block.lava.pop"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 0.2,
+    "bulletKnockback": 2,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Blocks.AIR"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "InsFireTablet1Effect"
+    },
+    "onBulletFlyingTick": {
+      "name": "InsFireTablet1Effect"
+    }
+  }
+}

@@ -7,10 +7,13 @@ import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.Entity;
 
+import net.mcreator.maltinmysticism.item.OrangeChalkItem;
 import net.mcreator.maltinmysticism.item.InscriptionTabletItem;
 import net.mcreator.maltinmysticism.item.InsWaterTablet3Item;
 import net.mcreator.maltinmysticism.item.InsWaterTablet2Item;
 import net.mcreator.maltinmysticism.item.InsWaterTablet1Item;
+import net.mcreator.maltinmysticism.item.InsFireTablet2Item;
+import net.mcreator.maltinmysticism.item.InsFireTablet1Item;
 import net.mcreator.maltinmysticism.item.BlueChalkItem;
 import net.mcreator.maltinmysticism.MaltinmysticismModElements;
 
@@ -248,6 +251,160 @@ public class InscriptionBenchRecipesProcedure extends MaltinmysticismModElements
 						Object invobj = ((Supplier) _current).get();
 						if (invobj instanceof Map) {
 							ItemStack _setstack = new ItemStack(InsWaterTablet3Item.block, (int) (1));
+							_setstack.setCount((int) 1);
+							((Slot) ((Map) invobj).get((int) (0))).putStack(_setstack);
+							_current.detectAndSendChanges();
+						}
+					}
+				}
+			}
+			if (((new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (1))).getItem()) || ((new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (2))).getItem()) || (new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (3))).getItem())))) {
+				if (entity instanceof PlayerEntity) {
+					Container _current = ((PlayerEntity) entity).openContainer;
+					if (_current instanceof Supplier) {
+						Object invobj = ((Supplier) _current).get();
+						if (invobj instanceof Map) {
+							ItemStack _setstack = new ItemStack(InsFireTablet1Item.block, (int) (1));
+							_setstack.setCount((int) 1);
+							((Slot) ((Map) invobj).get((int) (0))).putStack(_setstack);
+							_current.detectAndSendChanges();
+						}
+					}
+				}
+			}
+			if ((((new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (1))).getItem()) && (new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (2))).getItem())) || (((new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (1))).getItem()) && (new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (3))).getItem())) || ((new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (2))).getItem()) && (new ItemStack(OrangeChalkItem.block, (int) (1)).getItem() == (new Object() {
+				public ItemStack getItemStack(int sltid) {
+					Entity _ent = entity;
+					if (_ent instanceof ServerPlayerEntity) {
+						Container _current = ((ServerPlayerEntity) _ent).openContainer;
+						if (_current instanceof Supplier) {
+							Object invobj = ((Supplier) _current).get();
+							if (invobj instanceof Map) {
+								return ((Slot) ((Map) invobj).get(sltid)).getStack();
+							}
+						}
+					}
+					return ItemStack.EMPTY;
+				}
+			}.getItemStack((int) (3))).getItem()))))) {
+				if (entity instanceof PlayerEntity) {
+					Container _current = ((PlayerEntity) entity).openContainer;
+					if (_current instanceof Supplier) {
+						Object invobj = ((Supplier) _current).get();
+						if (invobj instanceof Map) {
+							ItemStack _setstack = new ItemStack(InsFireTablet2Item.block, (int) (1));
 							_setstack.setCount((int) 1);
 							((Slot) ((Map) invobj).get((int) (0))).putStack(_setstack);
 							_current.detectAndSendChanges();
